@@ -1,10 +1,10 @@
-title: MOREL # Write here the name of your site
-tagline: Mobile Open Resilient Electronic Libraries # Write here the tagline of your site
+title: El Vuelo de Hermes # Write here the name of your site
+tagline: Biblioteca del proyecto «El vuelo de Hermes» # Write here the tagline of your site
 img: logo.png # Add a file with a copy of your site's logo on /assets/img/tema
 background: pattern.png # Add a file with a copy of your site's pattern on /assets/img/tema
 image : avatar.png  # Add a file with a copy of your site's avatar on /assets/img/tema
-email : proyectomorel@gmail.com
-github : 
+email : elvuelodehermes@gmail.com
+github : https://github.com/elvuelodehermes
 twitter : 
 instagram:
 remote_theme: morelrep/morel-theme
